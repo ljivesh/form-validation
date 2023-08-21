@@ -1,0 +1,9 @@
+.app {
+
+  font-family: 'Overpass', sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}

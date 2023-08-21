@@ -1,0 +1,21 @@
+.input {
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.input label {
+    font-size: larger;
+}
+
+.input input {
+    height: 20px;
+    margin-top: 10px;
+}
+
+.input p {
+    color: red;
+    font-size: small;
+    height: 5px;
+}

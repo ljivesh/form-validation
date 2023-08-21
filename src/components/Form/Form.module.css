@@ -1,0 +1,25 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.form-actions {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.form-actions button {
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+
+}
